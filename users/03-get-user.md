@@ -1,4 +1,4 @@
-# Get Current User
+# Get User By UserId
 
 Get the details of the currently Authenticated User along with basic
 subscription information.

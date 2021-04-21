@@ -1,4 +1,4 @@
-# Update Current User
+# Update User By UserId
 
 Update the details of the currently Authenticated User along with basic
 subscription information.
