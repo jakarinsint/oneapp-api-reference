@@ -3,7 +3,7 @@
 Update the details of the currently Authenticated User along with basic
 subscription information.
 
-**URL** : `{endpoint}/v2/users/me/:uid`
+**URL** : `{endpoint}/v2/users/:uid`
 
 **Method** : `PUT`
 
