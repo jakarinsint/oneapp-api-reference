@@ -1,16 +1,20 @@
-# Show Current User
+# Get Current User
 
 Get the details of the currently Authenticated User along with basic
 subscription information.
 
 **URL** : `{endpoint}/v2/users/me`
+
 **Method** : `GET`
-**Auth required** : YES
+
+**Auth required (Bearer token)** : YES
 
 ## Success Response
 
 **Code** : `200 OK`
+
 **Content examples**
+
 
 ```json
 {
