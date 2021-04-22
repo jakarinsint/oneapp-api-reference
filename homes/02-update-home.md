@@ -20,7 +20,7 @@ subscription information.
 }
 ```
 
-![][../assets/images/update-home.png]
+![alt text for screen readers](/assets/images/update-home.png "Sample body data")
 
 ## Success Response
 
