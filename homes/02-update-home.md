@@ -22,6 +22,7 @@ subscription information.
 
 ![alt text for screen readers](/assets/images/update-home-v1.png "Sample body data")
 
+
 ## Success Response
 
 **Code** : `200 OK`
@@ -37,12 +38,12 @@ The api shall return the updated home info to caller.
             "_id": "605069c10668ee0ce4f4ffd4",
             "name": "Home 02",
             "info": {
-                "properties": {
+                "property": {
                     "_id": "607ea6766e25fa2542b2f3e2",
                     "nameTh": "Property Perfact",
                     "nameEn": "Property Perfact"
                 },
-                "projects": {
+                "project": {
                     "_id": "607ea72a6e25fa2542b2f3fe",
                     "nameTh": "Perfect place",
                     "nameEn": "Perfect place"

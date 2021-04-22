@@ -25,12 +25,12 @@ subscription information.
             "_id": "605069c10668ee0ce4f4ffd4",
             "name": "Home 07",
             "info": {
-                "properties": {
+                "property": {
                     "_id": "607ea6766e25fa2542b2f3e2",
                     "nameTh": "Property Perfact",
                     "nameEn": "Property Perfact"
                 },
-                "projects": {
+                "project": {
                     "_id": "607ea72a6e25fa2542b2f3fe",
                     "nameTh": "Perfect place",
                     "nameEn": "Perfect place"
