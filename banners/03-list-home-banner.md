@@ -7,8 +7,7 @@
 
 **Auth required (Bearer token)** : YES
 
-**Body constraints**
-Caller is able to set criteria by specific projectId as request body
+**Caller is able to set criteria by specific projectId as request body**
 
 ```json
 {
